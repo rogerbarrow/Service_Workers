@@ -7,7 +7,6 @@ if ('serviceWorker' in navigator) {
   });
 }
 
-
 function initMap() {
 
   const loc = {

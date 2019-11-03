@@ -213,7 +213,7 @@ p {
 }
 
 #showcase {
-  background: #333 url('../img/showcase1.jpg') no-repeat center center/cover;
+  background: #333 url('../img/showcase3.jpg') no-repeat center center/cover;
   height: 100vh;
   color: #fff;
 }
@@ -263,7 +263,7 @@ p {
 
 #about .about-img {
 
-  background: url('../img/people2.jpg') no-repeat center center/cover;
+  background: url('../img/people1.jpg') no-repeat center center/cover;
 }
 
 #clients .items {
